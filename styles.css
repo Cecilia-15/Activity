@@ -1,0 +1,24 @@
+header {
+    background-color: orange;
+}
+
+header nav a {
+    background-color: chocolate;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.receta {
+    background-color: chocolate;
+}
+
+footer {
+    background-color: orange;
+}
+
+footer p {
+    text-align: center;
+}
