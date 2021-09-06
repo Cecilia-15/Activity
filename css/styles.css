@@ -1,0 +1,48 @@
+*{
+    font-family: Verdana;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    left: 0;
+}
+
+.nav {
+    padding: 15px;
+}
+
+.link {
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+
+.receta {
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+    height: 50%;
+    font-size: 20px;
+}
+
